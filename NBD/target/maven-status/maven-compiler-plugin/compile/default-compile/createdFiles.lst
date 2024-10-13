@@ -1,0 +1,9 @@
+managers\ClientsManager.class
+models\Volume.class
+models\Client.class
+repositories\Repository.class
+models\Magazine.class
+managers\VolumesManager.class
+managers\RentsManager.class
+models\Rent.class
+models\Book.class
